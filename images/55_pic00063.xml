@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_5</folder>
+	<filename>55_pic00063.jpg</filename>
+	<path>/Users/Soubhi/Desktop/data_5/55_pic00063.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1-hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>415</xmin>
+			<ymin>214</ymin>
+			<xmax>560</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

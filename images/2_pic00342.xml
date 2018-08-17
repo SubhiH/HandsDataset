@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hand_data_2</folder>
+	<filename>2_pic00342.jpg</filename>
+	<path>/Users/Soubhi/Desktop/hand_data_2/pic00342.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2-hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>168</ymin>
+			<xmax>519</xmax>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+</annotation>

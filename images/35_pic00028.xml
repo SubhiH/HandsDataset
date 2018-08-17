@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_5</folder>
+	<filename>35_pic00028.jpg</filename>
+	<path>/Users/Soubhi/Desktop/data_5/35_pic00028.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0-hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>443</xmin>
+			<ymin>317</ymin>
+			<xmax>526</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_6</folder>
+	<filename>46_pic00011.jpg</filename>
+	<path>/Users/Soubhi/Desktop/data_6/46_pic00011.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2-hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>215</ymin>
+			<xmax>312</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

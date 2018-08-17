@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_6</folder>
+	<filename>996_pic00112.jpg</filename>
+	<path>/Users/Soubhi/Desktop/data_6/996_pic00112.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4-hand</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>638</xmin>
+			<ymin>258</ymin>
+			<xmax>786</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>
