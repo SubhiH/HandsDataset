@@ -27,3 +27,8 @@
 
 ![Samples](https://github.com/SubhiH/HandsDataset/blob/master/samples/s1.png)
 
+
+
+## License
+
+HandsDataset is released under the Apache license. See [LICENSE](https://github.com/SubhiH/HandsDataset/blob/master/LICENSE) for more information.
