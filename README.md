@@ -10,11 +10,12 @@
 
 ![Samples](https://github.com/SubhiH/HandsDataset/blob/master/samples/s3.png)
 
---
+---
 
 ![Samples](https://github.com/SubhiH/HandsDataset/blob/master/samples/s2.png)
 
---
+
+---
 
 ![Samples](https://github.com/SubhiH/HandsDataset/blob/master/samples/s1.png)
 
